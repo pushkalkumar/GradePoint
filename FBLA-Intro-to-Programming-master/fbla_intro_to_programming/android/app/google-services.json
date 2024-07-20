@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "156534679299",
+    "firebase_url": "https://grade-point-8904a-default-rtdb.firebaseio.com",
+    "project_id": "grade-point-8904a",
+    "storage_bucket": "grade-point-8904a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156534679299:android:449f0ebc75aae6c3e6eb36",
+        "android_client_info": {
+          "package_name": "com.example.fbla_intro_to_programming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtSA-ZhcqUIqF9Ch1aibSgu1t3hUnpLCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
